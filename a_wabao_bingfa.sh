@@ -6,6 +6,7 @@
 # export WABAO_PINS="指定pin助力，多个用英文&分割"
 # export WABAO_BINGFA="true" #挖宝并发版任务默认不执行，启用需设置环境变量
 # export WABAO_BAN_PINS="123&456" #挖宝助力时这里指定的pin将不助力(黑名单)
+# export WABAO_ACTIVITYID="xx" #设置activityId
 # 支持PIN或者链接方式(`wabaolist.txt`存放需要助力的URL,一行一个)
 pwd
 _ftype=""

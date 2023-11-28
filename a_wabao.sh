@@ -8,6 +8,7 @@
 # export CK_START_INDEX="10"  #从第10个号开始助力 可选参数,可以不填。
 # export WABAO_SHUNXU_DELAY="2" # 助力等待多少秒 默认0秒 可选参数,可以不填。
 # export WABAO_USE_PROXY="true" #强制使用代理 默认不用代理 可选参数,可以不填。
+# export WABAO_ACTIVITYID="xx" #设置activityId
 # 支持PIN或者链接方式(`wabaolist.txt`存放需要助力的URL,一行一个)
 pwd
 _ftype=""
