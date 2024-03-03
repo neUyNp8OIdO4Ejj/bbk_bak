@@ -2,12 +2,12 @@
 # new Env('BBK-38心愿助力');
 # export JD_LOG_XYZ_TOKEN="从机器人获取的token"
 # export Proxy_Url="代理网址 例如：星空、熊猫 生成选择txt 一次一个"
-# export 38XY_SUSSCESS_COUNT="60" # 助力次数 默认60
-# export 38XY_BAN_PINS="黑名单pin不参与助力，多个用英文&分割" #可选参数,可以不填。
-# export 38XY_WHITE_PINS="仅白名单pin参与助力，多个用英文&分割" #可选参数,可以不填。
-# export 38XY_USE_PROXY="false" # true使用代理
-# export 38XY_DELAY="10" # 助力等待多少秒 默认1秒 可选参数,可以不填。
-# export 38XY_CK_START_INDEX="10" # 从第10个号开始助力 可选参数,可以不填。
+# export XY_SUSSCESS_COUNT="60" # 助力次数 默认60
+# export XY_BAN_PINS="黑名单pin不参与助力，多个用英文&分割" #可选参数,可以不填。
+# export XY_WHITE_PINS="仅白名单pin参与助力，多个用英文&分割" #可选参数,可以不填。
+# export XY_USE_PROXY="false" # true使用代理
+# export XY_DELAY="10" # 助力等待多少秒 默认1秒 可选参数,可以不填。
+# export XY_CK_START_INDEX="10" # 从第10个号开始助力 可选参数,可以不填。
 # 38xy_list.txt助力链接文件
 # 1.先设置助力次数，再设置助力链接
 # 2.支持链接方式(`38xy_list.txt`存放需要助力的URL,一行一个)
